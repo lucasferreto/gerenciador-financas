@@ -1,0 +1,6 @@
+module Pods_carteira {
+  umbrella header "Pods-carteira-umbrella.h"
+
+  export *
+  module * { export * }
+}

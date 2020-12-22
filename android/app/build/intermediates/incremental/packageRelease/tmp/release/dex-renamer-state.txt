@@ -1,0 +1,4 @@
+#Fri Nov 27 00:07:47 BRT 2020
+base.0=/Users/lucasferreira/Projetos/react-native/carteira/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
